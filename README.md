@@ -14,3 +14,6 @@ Open source is a philosophy and practice that access to the source code, allows 
 - Have the mentality to think about how you can improve a project.
 - Get started now ...
 
+
+> this repository created for demo purpose for the blog I wrote how to get started with open-source. Feel free to contribute to this repository. 
+Blog link: [Read](https://devvsakib.hashnode.dev/getting-started-with-open-source-full-guide-and-demo)
